@@ -7,7 +7,7 @@
 
 <br>
 
-### If you're wondering what the projects look like, there are images in the "screenshoots" file inside each project.
+### If you're wondering what the project looks like, just click on the file.
 
 <br><br>
 
