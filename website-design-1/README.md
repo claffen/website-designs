@@ -1,3 +1,5 @@
+# Design 1 
+
 <img src="https://github.com/claffen/website-designs/blob/main/website-design-1/screenshots/photo1.PNG">
 <img src="https://github.com/claffen/website-designs/blob/main/website-design-1/screenshots/photo2.PNG">
 <img src="https://github.com/claffen/website-designs/blob/main/website-design-1/screenshots/photo3.PNG">
