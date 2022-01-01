@@ -1,0 +1,22 @@
+/* Google Fonts */
+
+/* 1 - Ubuntu Regular 400 [ ~ For Navbar ~ ] */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/* 2 - Pushster Regular 400 [ ~ For Main "span" Tag ~ ] */
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+/* 3 - Rubik Regular 400 [ ~ For Main "h1" Tag ~ ] */
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+/* 4 - Work Sans Regular 400 [ ~ For Footer "h2" Tag ~ ] */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+/* 5 - Josefin Sans Regular 400 [ ~ For Main > Footer > Main > .main-right > "h1" && "h2" Tag ~ ] */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+/* 6 - Karla Regular 400 [ ~ For Main > Footer > Main > .main-right > "p" && span > "ul" Tag */
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+/* 7 - Mukta Regular 400 [ ~ For .footer > "span" Tag */
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
